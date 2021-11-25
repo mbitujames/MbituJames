@@ -1,11 +1,11 @@
 # Mbitu-James
-## mbitu james.
 ![mbitujames's GitHub Stats.](https://github-readme-stats.vercel.app/api?username=mbitujames&&show_icons=true&title_color=ffffff&icon_color=2A75CF&text_color=daf7dc&bg_color=191919)
 <!--github anual stats-->
 
 
 <p align="left"> <a href="https://twitter.com/_mbitu" target="blank"><img src="https://img.shields.io/twitter/follow/_mbitu?logo=twitter&style=for-the-badge" alt="mbitujames" /></a> </p>
 
+<p align="left"> <a href="https://www.instagram.com/invites/contact/?i=38j90c2ekimq&utm_content=12rb5cx" target="blank"><img src="https://img.shields.io/instagram/follow/_mbitu_?logo=instagram&style=for-the-badge" alt="mbitujames" /></a> </p>
 
 <img width=100% src="https://github-profile-trophy.vercel.app/?username=mbitujames&column=6"/>
 <!--Trophies-->
