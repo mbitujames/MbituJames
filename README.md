@@ -23,6 +23,12 @@
 <a href="https://twitter.com/_mbitu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="dudduanvesh" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/mbitu-james-136b9519b" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="anvesh duddu" height="30" width="40" /></a>
 <a href="https://www.instagram.com/invites/contact/?i=38j90c2ekimq&utm_content=12rb5cx" target="blank"><img align="Center" src="instagram.png" alt="instagram" height="30" width="40" /></a>
+<footer class="footer">
+            <div class="socia-media">
+                <a href="#"><i class="fab fa-facebook-f">Facebook</i></a>
+                <a href="#"><i class="fab fa-twitter"></i>Twitter</a>
+                <a href="#"><i class="fab fa-instagram"></i>Instagram</a>
+            </div>
 
 <a href="https://profile-counter.glitch.me/mbitujames/count.svg"><p align="center"> Visitor count<br> <img src="https://profile-counter.glitch.me/,bitujames/count.svg" /></a>
 
