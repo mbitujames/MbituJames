@@ -22,20 +22,9 @@
 <p align="left" color:"#933ded";>
 <a href="https://twitter.com/_mbitu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="dudduanvesh" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/mbitu-james-136b9519b" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="anvesh duddu" height="30" width="40" /></a>
-<a href="https://www.instagram.com/invites/contact/?i=38j90c2ekimq&utm_content=12rb5cx" target="blank"><img align="Center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F950752171304609222%2F&psig=AOvVaw0Fy9B9v4Z0UyrRS8yT0Ly0&ust=1638709422445000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCOjX5rqayvQCFQAAAAAdAAAAABAD" alt="instagram" height="30" width="40" /></a>
+<a href="https://www.instagram.com/invites/contact/?i=38j90c2ekimq&utm_content=12rb5cx" target="blank"><img align="Center" src="https://images.app.goo.gl/NgnvaZ2gYUqKtkgaA" alt="instagram.png" height="30" width="40" /></a>
 
 <a href="https://profile-counter.glitch.me/mbitujames/count.svg"><p align="center"> Visitor count<br> <img src="https://profile-counter.glitch.me/,bitujames/count.svg" /></a>
-  <!Doctype html>
-  <html>
-  <body>
-    <div class="container">
-    <footer class="footer">
-            <div class="socia-media">
-                <a href="https://twitter.com/_mbitu"><i class="twitter.png"></i>Twitter</a>
-                <a href="https://www.instagram.com/invites/contact/?i=38j90c2ekimq&utm_content=12rb5cx"><i class="fab fa-instagram"></i>Instagram</a>
-            </div>
-      </div>
-      </body>
-    </html>
+ 
 
 ![](https://activity-graph.herokuapp.com/graph?username=mbitujames&theme=react-dark)
