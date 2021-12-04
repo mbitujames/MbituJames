@@ -31,8 +31,7 @@
     <div class="container">
     <footer class="footer">
             <div class="socia-media">
-                <a href="#"><i class="fab fa-facebook-f">Facebook</i></a>
-                <a href="https://twitter.com/_mbitu"><i class="fab fa-twitter"></i>Twitter</a>
+                <a href="https://twitter.com/_mbitu"><i class="fab twitter"></i>Twitter</a>
                 <a href="https://www.instagram.com/invites/contact/?i=38j90c2ekimq&utm_content=12rb5cx"><i class="fab fa-instagram"></i>Instagram</a>
             </div>
       </div>
