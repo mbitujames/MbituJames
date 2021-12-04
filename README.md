@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/_mbitu" target="blank"><img src="https://img.shields.io/twitter/follow/_mbitu?logo=twitter&style=for-the-badge" alt="mbitujames" /></a> </p>
 
-<p align="left"> <a href="https://www.instagram.com/invites/contact/?i=38j90c2ekimq&utm_content=12rb5cx" target="blank"><img src="https://logo=instagram-icon-white-on-black.png" alt="instagram" /></a> </p>
+<p align="left"> <a href="https://www.instagram.com/invites/contact/?i=38j90c2ekimq&utm_content=12rb5cx" target="blank"><img src="instagram-icon-white-on-black.png" alt="instagram" /></a> </p>
 
 <img width=100% src="https://github-profile-trophy.vercel.app/?username=mbitujames&column=6"/>
 <!--Trophies-->
