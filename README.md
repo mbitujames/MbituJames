@@ -24,9 +24,19 @@
 <a href="https://www.linkedin.com/in/mbitu-james-136b9519b" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="anvesh duddu" height="30" width="40" /></a>
 <a href="https://www.instagram.com/invites/contact/?i=38j90c2ekimq&utm_content=12rb5cx" target="blank"><img align="Center" src="instagram.png" alt="instagram" height="30" width="40" /></a>
 
+<a href="https://profile-counter.glitch.me/mbitujames/count.svg"><p align="center"> Visitor count<br> <img src="https://profile-counter.glitch.me/,bitujames/count.svg" /></a>
+  <!Doctype html>
+  <html>
+  <body>
+    <div class="container">
+    <footer class="footer">
+            <div class="socia-media">
+                <a href="#"><i class="fab fa-facebook-f">Facebook</i></a>
                 <a href="https://twitter.com/_mbitu"><i class="fab fa-twitter"></i>Twitter</a>
                 <a href="https://www.instagram.com/invites/contact/?i=38j90c2ekimq&utm_content=12rb5cx"><i class="fab fa-instagram"></i>Instagram</a>
-
-<a href="https://profile-counter.glitch.me/mbitujames/count.svg"><p align="center"> Visitor count<br> <img src="https://profile-counter.glitch.me/,bitujames/count.svg" /></a>
+            </div>
+      </div>
+      </body>
+    </html>
 
 ![](https://activity-graph.herokuapp.com/graph?username=mbitujames&theme=react-dark)
