@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/_mbitu" target="blank"><img src="https://img.shields.io/twitter/follow/_mbitu?logo=twitter&style=for-the-badge" alt="mbitujames" /></a> </p>
 
-<p align="left"> <a href="https://www.instagram.com/invites/contact/?i=38j90c2ekimq&utm_content=12rb5cx" target="blank"><img src="https://img.shields.io/instagram/follow/_mbitu_?logo=instagram&style=for-the-badge" alt="instagram" /></a> </p>
+<p align="left"> <a href="https://www.instagram.com/invites/contact/?i=38j90c2ekimq&utm_content=12rb5cx" target="blank"><img src="https://img.shields.io/twitter/follow/_mbitu_?logo=twitter&style=for-the-badge" alt="instagram" /></a> </p>
 
 <img width=100% src="https://github-profile-trophy.vercel.app/?username=mbitujames&column=6"/>
 <!--Trophies-->
@@ -22,7 +22,7 @@
 <p align="left" color:"#933ded";>
 <a href="https://twitter.com/_mbitu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="dudduanvesh" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/mbitu-james-136b9519b" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="anvesh duddu" height="30" width="40" /></a>
-<a href="https://www.instagram.com/invites/contact/?i=38j90c2ekimq&utm_content=12rb5cx" target="blank"><img align="Center" src="https://images.app.goo.gl/NgnvaZ2gYUqKtkgaA" alt="" height="30" width="40" /></a>
+<a href="https://www.instagram.com/invites/contact/?i=38j90c2ekimq&utm_content=12rb5cx" target="blank"><img align="Center" src="https://images.app.goo.gl/NgnvaZ2gYUqKtkgaA" alt="instagram" height="30" width="40" /></a>
 
 <a href="https://profile-counter.glitch.me/mbitujames/count.svg"><p align="center"> Visitor count<br> <img src="https://profile-counter.glitch.me/,bitujames/count.svg" /></a>
  
